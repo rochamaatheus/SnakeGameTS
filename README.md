@@ -1,3 +1,4 @@
+- Nota: Precisa de ajustes para o Iphone
 # Snake Game
 
 Pequeno projeto do "Jogo da Cobrinha" (Snake Game)
