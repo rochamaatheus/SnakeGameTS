@@ -76,11 +76,11 @@ canvas {
   display: none;
   justify-items: center;
   gap: 0.25rem;
-  margin-top: 5rem;
+  margin-top: 2rem;
 }
 
 .controls button {
-  font-size: 2rem;
+  font-size: 3.5rem;
 }
 
 .controls button:hover {
@@ -90,9 +90,9 @@ canvas {
 
 @media (max-width: 520px) {
   canvas {
-    width: 260px;
-    height: 260px;
-    margin-top: 5rem;
+    width: 300px;
+    height: 300px;
+    margin-top: 3rem;
   }
   .score {
     top: 3rem;
